@@ -1,3 +1,1 @@
-module github.com/linuknown/testmod
-
-go 1.12
+module github.com/linuknown/testmod/v2
